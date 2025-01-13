@@ -31,5 +31,5 @@ setup(name='EllucianEthosPythonClient',
       packages=['EllucianEthosPythonClient', 'EllucianEthosPythonClient.ResourceWrappers'],
       zip_safe=False,
       install_requires=sp_install_requires,
-      tests_require=sp_tests_require,
+#      tests_require=sp_tests_require,
       include_package_data=True)
